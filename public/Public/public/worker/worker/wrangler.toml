@@ -1,0 +1,7 @@
+name = "ff-ai"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+[vars]
+BASE_URL = "https://api.openai.com/v1"
+MODEL = "gpt-4o-mini"
