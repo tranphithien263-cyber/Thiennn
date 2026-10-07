@@ -1,0 +1,8 @@
+{
+  "weapons": [
+    { "name": "AK47", "damage": 61, "rate": 60, "range": 78, "reload": 2.9, "mag": 30, "note": "Damage cao, recoil mạnh, tốt tầm trung." },
+    { "name": "M4A1", "damage": 51, "rate": 70, "range": 80, "reload": 2.5, "mag": 30, "note": "Ổn định, recoil thấp, đa dụng." },
+    { "name": "MP40", "damage": 48, "rate": 83, "range": 40, "reload": 2.2, "mag": 30, "note": "Close range, tốc độ bắn nhanh." },
+    { "name": "AWM", "damage": 105, "rate": 27, "range": 95, "reload": 3.7, "mag": 5, "note": "Sniper, one-shot headshot giáp cấp 2." }
+  ]
+}
